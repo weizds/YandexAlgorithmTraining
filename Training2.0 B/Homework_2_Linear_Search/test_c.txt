@@ -1,0 +1,15 @@
+TEST_1
+IN
+a
+OUT
+0
+TEST_2
+IN
+ab
+OUT
+1
+TEST_3
+IN
+cognitive
+OUT
+4

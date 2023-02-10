@@ -1,0 +1,23 @@
+TEST_1
+IN
+Party One 100000
+Party Two 200000
+Party Three 400000
+OUT
+Party One 64
+Party Two 129
+Party Three 257
+TEST_2
+IN
+Party number one 100
+Partytwo 100
+OUT
+Party number one 225
+Partytwo 225
+TEST_3
+IN
+Party number one 449
+Partytwo 1
+OUT
+Party number one 449
+Partytwo 1

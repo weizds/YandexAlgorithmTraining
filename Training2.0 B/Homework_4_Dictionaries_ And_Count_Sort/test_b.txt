@@ -1,0 +1,27 @@
+TEST_1
+IN
+McCain 10
+McCain 5
+Obama 9
+Obama 8
+McCain 1
+OUT
+McCain 16
+Obama 17
+TEST_2
+IN
+ivanov 100
+ivanov 500
+ivanov 300
+petr 70
+tourist 1
+tourist 2
+OUT
+ivanov 900
+petr 70
+tourist 3
+TEST_3
+IN
+bur 1
+OUT
+bur 1
